@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\PDS\bin\Debug\net5.0\PDS.exe
+C:\Users\Administrator\source\repos\PDS\bin\Debug\net5.0\PDS.deps.json
+C:\Users\Administrator\source\repos\PDS\bin\Debug\net5.0\PDS.runtimeconfig.json
+C:\Users\Administrator\source\repos\PDS\bin\Debug\net5.0\PDS.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PDS\bin\Debug\net5.0\PDS.dll
+C:\Users\Administrator\source\repos\PDS\bin\Debug\net5.0\ref\PDS.dll
+C:\Users\Administrator\source\repos\PDS\bin\Debug\net5.0\PDS.pdb
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.dll
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\ref\PDS.dll
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.pdb
+C:\Users\Administrator\source\repos\PDS\obj\Debug\net5.0\PDS.genruntimeconfig.cache
